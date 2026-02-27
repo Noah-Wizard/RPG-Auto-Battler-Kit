@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://cool66gvbr22o"]
 
-[ext_resource type="PackedScene" uid="uid://dlyysq375ofcm" path="res://Character-Models/character-base.gltf" id="1_glpr6"]
+[ext_resource type="PackedScene" uid="uid://7w3cwxe7rmff" path="res://Quaternius/Modular Character Outfits - Fantasy[Standard]/Exports/glTF (Godot-Unreal)/Outfits/Male_Ranger.gltf" id="1_pjt0s"]
 
 [node name="Character" type="Node3D" unique_id=1130308144]
 
-[node name="blockbench_export" parent="." unique_id=1729873374 instance=ExtResource("1_glpr6")]
+[node name="Male_Ranger" parent="." unique_id=1157985272 instance=ExtResource("1_pjt0s")]
